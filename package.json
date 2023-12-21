@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/uvieugo/alx-webstack-portfolio-project.git"
+    "url": "git+https://github.com/uvieugo/alx-webstack-portfolio-project.git"
   },
-  "author": "",
+  "author": "Ugo Uvietesivwi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/uvieugo/alx-webstack-portfolio-project/issues"
